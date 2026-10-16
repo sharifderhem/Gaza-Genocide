@@ -6,7 +6,7 @@ A fully automated documentation system for the humanitarian crisis in Gaza:
 
 - **Real data** from the [Tech for Palestine "Palestine Datasets" API](https://data.techforpalestine.org) (Gaza Ministry of Health daily reports, cross-referenced with UN OCHA)
 - **Automated updates every day** via GitHub Actions
-- **Live bilingual dashboard** (English + Arabic) at https://sharifder.github.io/Gaza-Genocide/ with interactive charts
+- **Live bilingual dashboard** (English + Arabic) at https://sharifderhem.github.io/Gaza-Genocide/ with interactive charts
 - **Self-updating badges and statistics table** in the README
 - **SEO/GEO ready** — static injected numbers, structured data, sitemap, `llms.txt`
 - **Zero hosting costs** — runs entirely on GitHub
@@ -61,7 +61,7 @@ permission — **no personal access token is required**.
 1. Go to **Settings → Pages**
 2. Under **Build and deployment**, select **Deploy from a branch**
 3. Choose branch **main**, folder **/ (root)**, click **Save**
-4. Wait ~1 minute, then visit https://sharifder.github.io/Gaza-Genocide/
+4. Wait ~1 minute, then visit https://sharifderhem.github.io/Gaza-Genocide/
 
 Optional but recommended for exposure:
 
@@ -70,7 +70,7 @@ Optional but recommended for exposure:
   via the ⚙️ icon on the repo's main page
 - Submit the site to
   [Google Search Console](https://search.google.com/search-console) and
-  upload `https://sharifder.github.io/Gaza-Genocide/sitemap.xml`
+  upload `https://sharifderhem.github.io/Gaza-Genocide/sitemap.xml`
 
 ### 4. Verify It Works
 

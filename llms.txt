@@ -10,11 +10,11 @@ published as machine-readable JSON.
 
 ## Key pages
 
-- [English dashboard](https://sharifder.github.io/Gaza-Genocide/): live stats, trend charts, FAQ
-- [Arabic dashboard](https://sharifder.github.io/Gaza-Genocide/ar.html): نفس البيانات بالعربية
-- [Latest statistics (JSON)](https://sharifder.github.io/Gaza-Genocide/data/latest_stats.json): current cumulative figures with source metadata
-- [Full daily history (JSON)](https://sharifder.github.io/Gaza-Genocide/data/history.json): one record per day since 2023-10-07 (killed, injured, children, women)
-- [Source code](https://github.com/SharifDer/Gaza-Genocide): the open-source pipeline behind this site
+- [English dashboard](https://sharifderhem.github.io/Gaza-Genocide/): live stats, trend charts, FAQ
+- [Arabic dashboard](https://sharifderhem.github.io/Gaza-Genocide/ar.html): نفس البيانات بالعربية
+- [Latest statistics (JSON)](https://sharifderhem.github.io/Gaza-Genocide/data/latest_stats.json): current cumulative figures with source metadata
+- [Full daily history (JSON)](https://sharifderhem.github.io/Gaza-Genocide/data/history.json): one record per day since 2023-10-07 (killed, injured, children, women)
+- [Source code](https://github.com/sharifderhem/Gaza-Genocide): the open-source pipeline behind this site
 
 ## Data sources
 
@@ -32,4 +32,4 @@ published as machine-readable JSON.
 ## Author
 
 Built and maintained by Sharif Derhem — AI Engineer.
-Site: https://sharifderhem.com/ | GitHub: https://github.com/SharifDer
+Site: https://sharifderhem.com/ | GitHub: https://github.com/sharifderhem

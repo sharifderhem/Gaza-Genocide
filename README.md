@@ -2,9 +2,9 @@
 
 ![Gaza Banner](https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1200&h=300&fit=crop&crop=center)
 
-## 🌐 [LIVE INTERACTIVE DASHBOARD](https://sharifder.github.io/Gaza-Genocide/) · [النسخة العربية](https://sharifder.github.io/Gaza-Genocide/ar.html)
+## 🌐 [LIVE INTERACTIVE DASHBOARD](https://sharifderhem.github.io/Gaza-Genocide/) · [النسخة العربية](https://sharifderhem.github.io/Gaza-Genocide/ar.html)
 
-> **Charts, trends, and the full daily history — powered by real Gaza MoH data:** **[sharifder.github.io/Gaza-Genocide](https://sharifder.github.io/Gaza-Genocide/)**
+> **Charts, trends, and the full daily history — powered by real Gaza MoH data:** **[sharifderhem.github.io/Gaza-Genocide](https://sharifderhem.github.io/Gaza-Genocide/)**
 
 ## ⚠️ URGENT: LIVE GENOCIDE IN PROGRESS 🚨
 
@@ -17,15 +17,15 @@
 ### Statistics Badges
 
 
-[![Death Toll](https://img.shields.io/badge/Death%20Toll-74,392%2B-red?style=for-the-badge)](https://github.com/SharifDer/Gaza-Genocide)
-[![Children Killed](https://img.shields.io/badge/Children%20Killed-20,179%2B-orange?style=for-the-badge)](https://github.com/SharifDer/Gaza-Genocide)
-[![Women Killed](https://img.shields.io/badge/Women%20Killed-12,500%2B-purple?style=for-the-badge)](https://github.com/SharifDer/Gaza-Genocide)
-[![Injured](https://img.shields.io/badge/Injured-175,440%2B-yellow?style=for-the-badge)](https://github.com/SharifDer/Gaza-Genocide)
-[![Journalists Killed](https://img.shields.io/badge/Journalists%20Killed-262%2B-critical?style=for-the-badge)](https://github.com/SharifDer/Gaza-Genocide)
-[![Medical Staff Killed](https://img.shields.io/badge/Medical%20Staff%20Killed-1,701%2B-lightgrey?style=for-the-badge)](https://github.com/SharifDer/Gaza-Genocide)
-[![Displaced](https://img.shields.io/badge/Displaced-1.9M%2B-blue?style=for-the-badge)](https://github.com/SharifDer/Gaza-Genocide)
-[![Hospitals](https://img.shields.io/badge/Hospitals%20Operational-15/36-green?style=for-the-badge)](https://github.com/SharifDer/Gaza-Genocide)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-16%2008:11%20UTC-blue?style=for-the-badge)](https://github.com/SharifDer/Gaza-Genocide)
+[![Death Toll](https://img.shields.io/badge/Death%20Toll-74,392%2B-red?style=for-the-badge)](https://github.com/sharifderhem/Gaza-Genocide)
+[![Children Killed](https://img.shields.io/badge/Children%20Killed-20,179%2B-orange?style=for-the-badge)](https://github.com/sharifderhem/Gaza-Genocide)
+[![Women Killed](https://img.shields.io/badge/Women%20Killed-12,500%2B-purple?style=for-the-badge)](https://github.com/sharifderhem/Gaza-Genocide)
+[![Injured](https://img.shields.io/badge/Injured-175,440%2B-yellow?style=for-the-badge)](https://github.com/sharifderhem/Gaza-Genocide)
+[![Journalists Killed](https://img.shields.io/badge/Journalists%20Killed-262%2B-critical?style=for-the-badge)](https://github.com/sharifderhem/Gaza-Genocide)
+[![Medical Staff Killed](https://img.shields.io/badge/Medical%20Staff%20Killed-1,701%2B-lightgrey?style=for-the-badge)](https://github.com/sharifderhem/Gaza-Genocide)
+[![Displaced](https://img.shields.io/badge/Displaced-1.9M%2B-blue?style=for-the-badge)](https://github.com/sharifderhem/Gaza-Genocide)
+[![Hospitals](https://img.shields.io/badge/Hospitals%20Operational-15/36-green?style=for-the-badge)](https://github.com/sharifderhem/Gaza-Genocide)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-10-16%2008:11%20UTC-blue?style=for-the-badge)](https://github.com/sharifderhem/Gaza-Genocide)
 
 ---
 
@@ -196,7 +196,7 @@ The Gaza Strip, home to 2.3 million people, is experiencing an unprecedented hum
 
 ### **Live Update System**
 
-This documentation and the [live dashboard](https://sharifder.github.io/Gaza-Genocide/) update **automatically every day** with the latest verified statistics using GitHub Actions automation.
+This documentation and the [live dashboard](https://sharifderhem.github.io/Gaza-Genocide/) update **automatically every day** with the latest verified statistics using GitHub Actions automation.
 
 **How it works:**
 1. `fetch_statistics.py` pulls real, cumulative figures from the [Tech for Palestine Datasets API](https://data.techforpalestine.org/docs/summary/) (`api/v3/summary.json`), which mirrors the Gaza Ministry of Health daily reports cross-referenced with UN OCHA, and regenerates the full daily history (`data/history.json`).
@@ -218,7 +218,7 @@ This documentation and the [live dashboard](https://sharifder.github.io/Gaza-Gen
 **Built and maintained by [Sharif Derhem](https://sharifderhem.com/)** — AI Engineer & Founder.
 
 - 🌐 [sharifderhem.com](https://sharifderhem.com/) · [العربية](https://sharifderhem.com/ar/)
-- 💻 [GitHub: @SharifDer](https://github.com/SharifDer)
+- 💻 [GitHub: @sharifderhem](https://github.com/sharifderhem)
 
 *The data belongs to its sources (Gaza MoH, Tech for Palestine, UN OCHA). This project is the open-source pipeline, documentation, and dashboard built on top of it.*
 
@@ -226,9 +226,9 @@ This documentation and the [live dashboard](https://sharifder.github.io/Gaza-Gen
 
 ## 📞 Contact & Support
 
-- **Report Issues**: [GitHub Issues](https://github.com/SharifDer/Gaza-Genocide/issues)
+- **Report Issues**: [GitHub Issues](https://github.com/sharifderhem/Gaza-Genocide/issues)
 - **Email**: sharifderhem@gmail.com
-- **Repository**: [https://github.com/SharifDer/Gaza-Genocide](https://github.com/SharifDer/Gaza-Genocide)
+- **Repository**: [https://github.com/sharifderhem/Gaza-Genocide](https://github.com/sharifderhem/Gaza-Genocide)
 
 ---
 

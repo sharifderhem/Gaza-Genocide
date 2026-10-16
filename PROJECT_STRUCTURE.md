@@ -72,7 +72,7 @@ Gaza-Genocide/
 - FAQ section with dated, sourced, quotable statements (GEO)
 - SEO: meta description, Open Graph, JSON-LD `Dataset` + `Person` schema
 - Author attribution to the maintainer (Sharif Derhem)
-- Served by GitHub Pages at https://sharifder.github.io/Gaza-Genocide/
+- Served by GitHub Pages at https://sharifderhem.github.io/Gaza-Genocide/
 
 **Important**: the root `index.html` and `ar.html` are **generated files**.
 Edit `templates/index.html` / `templates/ar.html` instead; the update
@@ -153,7 +153,7 @@ The project runs entirely on GitHub:
 
 - GitHub Actions handles the automated updates daily
 - GitHub renders the README with the updated badges
-- GitHub Pages serves the live dashboard at https://sharifder.github.io/Gaza-Genocide/
+- GitHub Pages serves the live dashboard at https://sharifderhem.github.io/Gaza-Genocide/
 - Zero hosting costs, zero infrastructure
 
 See `DEPLOYMENT_GUIDE.md` for the exact steps.
@@ -181,7 +181,7 @@ graph TD
 ### Local Development
 ```bash
 # Clone repository
-git clone https://github.com/SharifDer/Gaza-Genocide.git
+git clone https://github.com/sharifderhem/Gaza-Genocide.git
 cd Gaza-Genocide
 
 # Install dependencies

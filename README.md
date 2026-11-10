@@ -25,7 +25,7 @@
 [![Medical Staff Killed](https://img.shields.io/badge/Medical%20Staff%20Killed-1,723%2B-lightgrey?style=for-the-badge)](https://github.com/sharifderhem/Gaza-Genocide)
 [![Displaced](https://img.shields.io/badge/Displaced-1.9M%2B-blue?style=for-the-badge)](https://github.com/sharifderhem/Gaza-Genocide)
 [![Hospitals](https://img.shields.io/badge/Hospitals%20Operational-15/36-green?style=for-the-badge)](https://github.com/sharifderhem/Gaza-Genocide)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-09%2011:33%20UTC-blue?style=for-the-badge)](https://github.com/sharifderhem/Gaza-Genocide)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026-11-10%2011:13%20UTC-blue?style=for-the-badge)](https://github.com/sharifderhem/Gaza-Genocide)
 
 ---
 
@@ -58,14 +58,14 @@ The Gaza Strip, home to 2.3 million people, is experiencing an unprecedented hum
 
 | Category | LIVE COUNT | Last Updated | Status |
 |----------|------------|--------------|--------|
-| Total Deaths | 74,643+ | 2026-11-09 11:33 UTC | 🔴 LIVE |
-| Children Killed | 21,976+ | 2026-11-09 11:33 UTC | 🟠 LIVE |
-| Women Killed | 12,500+ | 2026-11-09 11:33 UTC | 🔴 LIVE |
-| Injured | 175,962+ | 2026-11-09 11:33 UTC | 🟡 LIVE |
-| Journalists Killed | 263+ | 2026-11-09 11:33 UTC | ⚫ LIVE |
-| Medical Staff Killed | 1,723+ | 2026-11-09 11:33 UTC | ⚪ LIVE |
-| Displaced | 1.9M+ | 2026-11-09 11:33 UTC | 🔵 LIVE |
-| Hospitals | 15/36 | 2026-11-09 11:33 UTC | 🟢 LIVE |
+| Total Deaths | 74,643+ | 2026-11-10 11:13 UTC | 🔴 LIVE |
+| Children Killed | 21,976+ | 2026-11-10 11:13 UTC | 🟠 LIVE |
+| Women Killed | 12,500+ | 2026-11-10 11:13 UTC | 🔴 LIVE |
+| Injured | 175,962+ | 2026-11-10 11:13 UTC | 🟡 LIVE |
+| Journalists Killed | 263+ | 2026-11-10 11:13 UTC | ⚫ LIVE |
+| Medical Staff Killed | 1,723+ | 2026-11-10 11:13 UTC | ⚪ LIVE |
+| Displaced | 1.9M+ | 2026-11-10 11:13 UTC | 🔵 LIVE |
+| Hospitals | 15/36 | 2026-11-10 11:13 UTC | 🟢 LIVE |
 
 ---
 
@@ -246,7 +246,7 @@ This documentation is released under [Creative Commons Attribution 4.0 Internati
 
 ---
 
-**Last Updated**: 2026-11-09 11:33 UTC
+**Last Updated**: 2026-11-10 11:13 UTC
 
 **Star this repo** ⭐ to help spread awareness and keep this documentation visible.
 
